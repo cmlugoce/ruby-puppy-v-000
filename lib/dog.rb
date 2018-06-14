@@ -12,4 +12,7 @@ end
      puts dog.name
     end
   end
+  
+  def self.clear_all
+  
 end 
